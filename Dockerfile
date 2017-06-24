@@ -1,4 +1,4 @@
-FROM elixir:1.2
+FROM elixir:1.4
 
 RUN apt-get update -qq
 
